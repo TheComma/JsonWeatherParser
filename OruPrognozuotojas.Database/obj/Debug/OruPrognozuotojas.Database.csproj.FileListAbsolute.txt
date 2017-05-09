@@ -1,0 +1,12 @@
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas.Database\bin\Debug\OruPrognozuotojas.Database.dll.config
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas.Database\bin\Debug\OruPrognozuotojas.Database.dll
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas.Database\bin\Debug\OruPrognozuotojas.Database.pdb
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas.Database\bin\Debug\EntityFramework.dll
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas.Database\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas.Database\bin\Debug\EntityFramework.xml
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas.Database\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas.Database\obj\Debug\OruPrognozuotojas.Database.csprojResolveAssemblyReference.cache
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas.Database\obj\Debug\OruPrognozuotojas.Database.dll
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas.Database\obj\Debug\OruPrognozuotojas.Database.pdb
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas.Database\obj\Debug\OruPrognozuotojas.Database.Migrations.initmigration.resources
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas.Database\obj\Debug\OruPrognozuotojas.Database.csproj.GenerateResource.Cache

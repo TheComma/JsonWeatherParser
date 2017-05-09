@@ -1,0 +1,15 @@
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\bin\Debug\OruPrognozuotojas.exe.config
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\bin\Debug\OruPrognozuotojas.exe
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\bin\Debug\OruPrognozuotojas.pdb
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\obj\Debug\OruPrognozuotojas.csprojResolveAssemblyReference.cache
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\obj\Debug\OruPrognozuotojas.exe
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\obj\Debug\OruPrognozuotojas.pdb
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\bin\Debug\EntityFramework.dll
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\bin\Debug\EntityFramework.xml
+c:\users\tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\bin\Debug\OruPrognozuotojas.Database.dll
+C:\Users\Tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\bin\Debug\OruPrognozuotojas.Database.pdb
+C:\Users\Tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tadas\documents\visual studio 2015\Projects\OruPrognozuotojas\bin\Debug\f120a0806e14c7bcff4a5c1515aad2aa.json
